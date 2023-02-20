@@ -5,7 +5,11 @@
 ## Getting Started
 
 📌 Data source
+
+
 I found this free API : https://rickandmortyapi.com/documentation/
+
+
 📱 Screens
 
 Used Dio to fetch data.
@@ -19,6 +23,8 @@ Check internet connection
 
 
 🔍 Details Screen
+
+
 Used Hero animation widget and animated text kit.
 
 ![WhatsApp Image 2023-02-20 at 10 30 39 PM](https://user-images.githubusercontent.com/88463009/220195208-daacbc60-0bda-4f5f-a980-8fb427fe3a74.jpeg)
